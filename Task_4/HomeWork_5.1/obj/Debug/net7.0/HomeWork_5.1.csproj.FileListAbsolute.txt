@@ -1,0 +1,15 @@
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/obj/Debug/net7.0/HomeWork_5.1.csproj.AssemblyReference.cache
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/obj/Debug/net7.0/HomeWork_5.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/obj/Debug/net7.0/HomeWork_5.1.AssemblyInfoInputs.cache
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/obj/Debug/net7.0/HomeWork_5.1.AssemblyInfo.cs
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/obj/Debug/net7.0/HomeWork_5.1.csproj.CoreCompileInputs.cache
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/bin/Debug/net7.0/HomeWork_5.1
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/bin/Debug/net7.0/HomeWork_5.1.deps.json
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/bin/Debug/net7.0/HomeWork_5.1.runtimeconfig.json
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/bin/Debug/net7.0/HomeWork_5.1.dll
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/bin/Debug/net7.0/HomeWork_5.1.pdb
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/obj/Debug/net7.0/HomeWork_5.1.dll
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/obj/Debug/net7.0/refint/HomeWork_5.1.dll
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/obj/Debug/net7.0/HomeWork_5.1.pdb
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/obj/Debug/net7.0/HomeWork_5.1.genruntimeconfig.cache
+/Users/aleksandrobuhov/projects/C-New/Task_4/HomeWork_5.1/obj/Debug/net7.0/ref/HomeWork_5.1.dll
