@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aleksandrobuhov/projects/C-New/C-New.csproj": {}
+    "/Users/aleksandrobuhov/projects/C-New/Task_7/HomeWork_1/HomeWork_1.csproj": {}
   },
   "projects": {
-    "/Users/aleksandrobuhov/projects/C-New/C-New.csproj": {
+    "/Users/aleksandrobuhov/projects/C-New/Task_7/HomeWork_1/HomeWork_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aleksandrobuhov/projects/C-New/C-New.csproj",
-        "projectName": "C-New",
-        "projectPath": "/Users/aleksandrobuhov/projects/C-New/C-New.csproj",
+        "projectUniqueName": "/Users/aleksandrobuhov/projects/C-New/Task_7/HomeWork_1/HomeWork_1.csproj",
+        "projectName": "HomeWork_1",
+        "projectPath": "/Users/aleksandrobuhov/projects/C-New/Task_7/HomeWork_1/HomeWork_1.csproj",
         "packagesPath": "/Users/aleksandrobuhov/.nuget/packages/",
-        "outputPath": "/Users/aleksandrobuhov/projects/C-New/obj/",
+        "outputPath": "/Users/aleksandrobuhov/projects/C-New/Task_7/HomeWork_1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aleksandrobuhov/.nuget/NuGet/NuGet.Config"
