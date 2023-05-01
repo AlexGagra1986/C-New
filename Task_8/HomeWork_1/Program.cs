@@ -30,9 +30,9 @@ Console.WriteLine("------------------------------------------");
 }
 
 void printArray(){
-for (int i = 0; i < 5 ; i++)
+for (int i = 0; i < M ; i++)
 {
-  for (int j = 0 ; j < 5 ; j++)
+  for (int j = 0 ; j < N ; j++)
   {
     Console.Write(array[i,j]);
   }
