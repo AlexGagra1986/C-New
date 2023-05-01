@@ -17,10 +17,10 @@ return x;
 
 void AddArray(){
 
-  for (int i = 0; i < 5 ; i++)
+  for (int i = 0; i < M ; i++)
 { 
     Random x = new Random();
-    for (int j = 0; j < 5 ;j++)
+    for (int j = 0; j < N ;j++)
     {
         array[i,j] = x.Next(1, 9);
     }
@@ -41,13 +41,13 @@ for (int i = 0; i < 5 ; i++)
 }
 
 void arraySort(){
-    for (int i = 0; i < 5 ; i++)
+    for (int i = 0; i < M ; i++)
 {
-     for (int j = 0 ; j < 5 ; j++)
+     for (int j = 0 ; j < N ; j++)
    {
-   for (int k = 0 ; k < 5 ; k++)
+   for (int k = 0 ; k < M ; k++)
    {
-   for (int m = 0 ; m < 5 ; m++)
+   for (int m = 0 ; m < N ; m++)
    {
    if (array[i,j]>array[k,m]){
    int t = array[i,j];
